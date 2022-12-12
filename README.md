@@ -22,9 +22,30 @@ Os frameworks são a base para o desenvolvimento de muitas websites. Os framewor
 
 ## Style Guide
 
-Para organizar um design system é essencial ter um Style Guide para organizar todo material, orientações, componentes, indetidade da marca...
+Para organizar um design system é essencial ter um Style Guide para organizar todo material, orientações, componentes, indetidade da marca, convenção de código... Isso tudo quando aplicado faz seu cliente acreditar mais em você, pois o seu site se torna mais coeso ao seguir um guia de estilos. Os stackholders passam a ver o site como um sistema e não apenas um amontoado de páginas onde cada um pensa que seu problema é unico e deve ser resolvido de uma forma diferente. Os desenvolvedores e designers também são educados pelo Style Guide e passam a saber que suas decisões afetam o Desigh Sytem como um todo.
 
 
 ### Identidade da Marca
 
 Em resumo, Identidade da Marca é tudo que a torna única, seja sua logomarca, tipografia, paleta de cores, slogan e outros. Uma marca então deve ser coesa em todos os seus canais para que seu cliente a identifique e confie nela.
+
+Outro termo importante é o Design Language que é semelhante a identidade da marca, porém mais filosófico.
+
+### Bibliotecas de componentes
+
+Assim que houver uma definição dos componentes pode existir essa lib, porém ela não deve ser considerada um "projeto auxiliar", pois na primeira redução de custos ela deixa de existir.
+
+Estratégias de manutenção e governança são essenciais para o projeto não ser abandonado.
+
+## Atomic Design - Metodologia
+
+O Atomic Design foi inspirado na quimica e cada parte é uma fase da construção. A divisão é:
+
+1. átomos
+2. moléculas
+3. organismos
+
+
+### Átomos
+
+Os átomos são os blocos base. São formados por elementos menores, mas assim como na matéria, o átomo é a menor parte funcional e para as interfaces é o menor elemento de uma interface. Exemplo botão, input, títulos.
