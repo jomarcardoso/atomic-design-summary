@@ -12,4 +12,19 @@ A cada, mais ou menos, 8 anos as empresas, não muito organizadas, refazem seus 
 
 ## Atmosfera de Design
 
-É muito difícil representar uma em todas as ...
+É muito difícil desenhar uma interface para cada aparelho em que aparecerá, seja monitor, celular, tv... Por isso andy Clarke fala da importância da Atmosfera de Design, termo que evoluiu de Identidade Visual, onde oque mais importa não é o arranjo dos elementos, mas oque é visto e sentido em cada página e aparelho.
+
+A designer Samantha Warren desenvolveu um conceito chamado Style Tyles onde o designer não mais gera as páginas a serem desenvolvidas e sim os artefatos, como cor, fonte, elementos visuais... Com isso os stackholders passam a ter mais liberdade e isso remove longas conversas e trabalho dos designers de gerar tela a tela.
+
+Em 2010 Ethan Marcotte cunhou o tempo Web Design Responsivo, com isso os designers passam a criar layouts adaptados para múltiplos aparelhos obrviomente não foi apenas criar páginas que espicham e encolhem, pois cada parte da interface têm seus desafios e oportunidades.
+
+Os frameworks são a base para o desenvolvimento de muitas websites. Os frameworks são conjuntos que orientam o desenvolvimento, porém um layout baseado em um framework específico fará o produto perder suas características, então, ao invés disso, cada site deve ter seu "[Bootstrap](https://getbootstrap.com/docs/5.0/)". Como diz o autor, "não é sobre usar um design system é sobre criar o seu".
+
+## Style Guide
+
+Para organizar um design system é essencial ter um Style Guide para organizar todo material, orientações, componentes, indetidade da marca...
+
+
+### Identidade da Marca
+
+Em resumo, Identidade da Marca é tudo que a torna única, seja sua logomarca, tipografia, paleta de cores, slogan e outros. Uma marca então deve ser coesa em todos os seus canais para que seu cliente a identifique e confie nela.
