@@ -59,3 +59,11 @@ Em interfaces, **moléculas são simples grupos de elementos UI funcionando junt
 ## Organismos
 
 Na química são seres simples ou complexos que precisam que todas suas moléculas e átomos funcionem em conjunto, como uma unidade. Já nas interfaces, os organismos são as seções ou blocos do site que serão usados para montar uma página, dentre eles: header, banner, rodapé... Um organismo pode as vezes ser uma repetição de moléculas, como uma prateleira de produtos ou uma lista de itens quaisquer.
+
+## Templates (molde)
+
+Agora, fora da física, o template é o esqueleto de uma página, ou seja a montagem dela sem os conteúdos.
+
+## Páginas 
+
+Como o nome já diz, a página é o resultado final, onde seus stakeholders confirmam e onde o teste final é feito para saber se o seu usuário aprova ou aprovará o trabalho feito. É nessa fase que é aplicado o conteúdo real e que pode variar dependendo de cada usuário, por exemplo um carrinho de compras com produtos diferentes ou uma página inicial mostrando promoção de primeiro acesso para outro usuário.
