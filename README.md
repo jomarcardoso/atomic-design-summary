@@ -49,3 +49,10 @@ O Atomic Design foi inspirado na quimica e cada parte é uma fase da construçã
 ### Átomos
 
 Os átomos são os blocos base. São formados por elementos menores, mas assim como na matéria, o átomo é a menor parte funcional e para as interfaces é o menor elemento de uma interface. Exemplo botão, input, títulos.
+
+## Moléculas
+
+Na química, as moléculas são a junção de 2 ou mais átomos. Essa combinação traz novas propriedades. 
+
+Em interfaces, **moléculas são simples grupos de elementos UI funcionando juntos como unidade.** A combinação dos átomos traz a eles um propósito. a criação desses componentes simples vão de acordo com o princípio da responsabilidade única, onde cada parte deve ser bem feita e testada, encorajando a reusabilidade e aumentando a consistência das interfaces.
+
