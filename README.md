@@ -67,3 +67,7 @@ Agora, fora da física, o template é o esqueleto de uma página, ou seja a mont
 ## Páginas 
 
 Como o nome já diz, a página é o resultado final, onde seus stakeholders confirmam e onde o teste final é feito para saber se o seu usuário aprova ou aprovará o trabalho feito. É nessa fase que é aplicado o conteúdo real e que pode variar dependendo de cada usuário, por exemplo um carrinho de compras com produtos diferentes ou uma página inicial mostrando promoção de primeiro acesso para outro usuário.
+
+## Vantagens do Atomic Design
+
+A grande vantagem do Atomic Design é **a habilidade de facilmente ver o abstrato e o concreto.** Nós podemos ver as interfaces quebradas nos elementos atômicos e na experiência final que são as páginas.
