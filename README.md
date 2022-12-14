@@ -56,3 +56,6 @@ Na química, as moléculas são a junção de 2 ou mais átomos. Essa combinaç�
 
 Em interfaces, **moléculas são simples grupos de elementos UI funcionando juntos como unidade.** A combinação dos átomos traz a eles um propósito. a criação desses componentes simples vão de acordo com o princípio da responsabilidade única, onde cada parte deve ser bem feita e testada, encorajando a reusabilidade e aumentando a consistência das interfaces.
 
+## Organismos
+
+Na química são seres simples ou complexos que precisam que todas suas moléculas e átomos funcionem em conjunto, como uma unidade. Já nas interfaces, os organismos são as seções ou blocos do site que serão usados para montar uma página, dentre eles: header, banner, rodapé... Um organismo pode as vezes ser uma repetição de moléculas, como uma prateleira de produtos ou uma lista de itens quaisquer.
