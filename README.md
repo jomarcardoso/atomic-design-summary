@@ -74,3 +74,7 @@ A grande vantagem do Atomic Design é **a habilidade de facilmente ver o abstrat
 
 Assim como um pintor se afasta da tela para enxergar o todo e se aproxima para voltar a pintar, assim também a clara separação entre estrutura e conteúdo permitem no
 Atomic Design onde o template é a amostra e a página é o teste daquela estrutura, onde se verifica como aqueles componentes funcionam com variações de quantidades de texto e diferentes tipos e tons de imagens e cores de temas.
+
+Quanto a nomenclatura dos elementos do Atomic Design, o autor explica que por mais que sejam estranhos a primeira vista, eles foram pensados para serem vistos como sequenciais, mas qualquer adaptação desses nomes não é um problema, visto que o objetivo principal do Atomic Design é ajudar na organização de um design system, e nomenclatura não precisa ser rígida, desde que contribua também a comunicar efetivamente os passos para construção que o Atomic Design propõe.
+
+
