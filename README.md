@@ -71,3 +71,6 @@ Como o nome já diz, a página é o resultado final, onde seus stakeholders conf
 ## Vantagens do Atomic Design
 
 A grande vantagem do Atomic Design é **a habilidade de facilmente ver o abstrato e o concreto.** Nós podemos ver as interfaces quebradas nos elementos atômicos e na experiência final que são as páginas.
+
+Assim como um pintor se afasta da tela para enxergar o todo e se aproxima para voltar a pintar, assim também a clara separação entre estrutura e conteúdo permitem no
+Atomic Design onde o template é a amostra e a página é o teste daquela estrutura, onde se verifica como aqueles componentes funcionam com variações de quantidades de texto e diferentes tipos e tons de imagens e cores de temas.
