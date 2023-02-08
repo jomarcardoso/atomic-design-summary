@@ -78,3 +78,15 @@ Atomic Design onde o template é a amostra e a página é o teste daquela estrut
 Quanto a nomenclatura dos elementos do Atomic Design, o autor explica que por mais que sejam estranhos a primeira vista, eles foram pensados para serem vistos como sequenciais, mas qualquer adaptação desses nomes não é um problema, visto que o objetivo principal do Atomic Design é ajudar na organização de um design system, e nomenclatura não precisa ser rígida, desde que contribua também a comunicar efetivamente os passos para construção que o Atomic Design propõe.
 
 
+## Atomic Design na prática
+
+O pilar central de um design baseado em padrões é a biblioteca de padrões. É nessa biblioteca que serão colocados todos os componentes de interface do usuário. Os benefícios de se fazer isso são:
+
+- Mais coesão na experiência do usuário.
+- Aumento da eficiência das equipes do projeto.
+- Ambientes mais colaborativos.
+- Vocabulário comum.
+- Documentação útil para stakeholders.
+- Componentes compatíveis, performaticos e bem testados.
+
+
